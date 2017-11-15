@@ -1,2 +1,2 @@
-# homebrew-formula
+# homebrew-formulas
 Utils installable via brew
