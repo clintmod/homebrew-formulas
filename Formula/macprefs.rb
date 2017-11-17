@@ -3,8 +3,8 @@ class Macprefs < Formula
   
     desc "Backup and Restore your Mac System and App Preferences"
     homepage "https://github.com/clintmod/macprefs"
-    url "https://github.com/clintmod/macprefs/archive/v1.0.3.tar.gz"
-    sha256 "8c9ed960586410d4c5925931924b646e99f3305ce41c0dd14d3337fcf09415ab"
+    url "https://github.com/clintmod/macprefs/archive/v1.0.4.tar.gz"
+    sha256 "395408a3dc9c3db2b5c200b8722a13a60898c861633b99e6e250186adffd1370"
   
     depends_on :python if MacOS.version <= :snow_leopard
   
